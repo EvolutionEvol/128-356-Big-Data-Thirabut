@@ -11,3 +11,4 @@ pyvenv.cfg
 *.parquet
 lakehouse/
 bad_partitioning/
+agent.md
